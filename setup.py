@@ -10,7 +10,7 @@ setuptools.setup(
     description="",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/flipper/pygrocy2",
+    url="https://github.com/sidial01/pygrocy2",
     license="MIT",
     packages=setuptools.find_packages(),
     install_requires=[
